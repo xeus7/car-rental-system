@@ -9,7 +9,7 @@ The Car Rental System is a C++ program that allows users to manage and operate a
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [OUTPUT](#outputscreenshots)
+- [OUTPUT](#output-screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
