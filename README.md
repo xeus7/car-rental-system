@@ -9,7 +9,7 @@ The Car Rental System is a C++ program that allows users to manage and operate a
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
+- [OUTPUT](#outputscreenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -32,3 +32,8 @@ The Car Rental System is a C++ program that allows users to manage and operate a
    ```bash
    git clone https://github.com/xeus7/car-rental-system.git
    cd car-rental-system
+
+### OUTPUT SCREENSHOTS
+
+<img width="957" alt="image" src="https://github.com/xeus7/car-rental-system/assets/122028402/dd99dc5e-8216-48ee-95ad-2efb62d88018">
+
