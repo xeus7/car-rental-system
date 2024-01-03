@@ -1,0 +1,5 @@
+﻿  Car.cpp
+E:\Car Rental Management System\Car Rental Management System\Car.cpp(23,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Car Rental Management System\Car Rental Management System\Car.cpp(24,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Car Rental Management System\Car Rental Management System\Car.cpp(25,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Car Rental Management System.vcxproj -> E:\Car Rental Management System\x64\Debug\Car Rental Management System.exe
