@@ -3,6 +3,7 @@
 
 ## Overview
 The Car Rental System is a C++ program that allows users to manage and operate a car rental service. It provides functionalities for renting, returning, and managing car inventory.
+IMPORTANT: Create an empty project on visual studio with the same name and paste this folder there and run the solution.
 
 ## Table of Contents
 - [Features](#features)
